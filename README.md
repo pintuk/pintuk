@@ -10,7 +10,7 @@ Currently working in Qualcomm Bangalore in Automotive Telematics BSP Linux Kerne
 
 **Past Experience:**
 
-QUALCOMM (1+ Years, Current), SONY (2 years), SAMSUMG (8.10 years), SASKEN (4.7 years)
+**QUALCOMM (Dec-2019 - Current)**, SONY (2 years), SAMSUMG (8.10 years), SASKEN (4.7 years)
 
 **Background:**
 
