@@ -14,7 +14,7 @@ Currently working in Qualcomm Bangalore in Automotive Telematics BSP Linux Kerne
 
 **Background:**
 
-* Experience in Linux Kernel Board Bring up for ARM32 (Linux Kernel 2.6.x - Till date) mainly for smart phones and devices.
+* Experience in Linux Kernel Board Bring up for ARM32 (Kernel 2.6, 3.x, 4.x, 5.x) mainly for smart phones and devices.
 * Worked mainly in Linux Kernel Memory Management areas
 * Experience with Real Time Linux Kernel (PREEMPT-RT, RT-Linux, XENOMAI)
 * Experience with Linux Kernel bring up on Samsung Tizen Smart Phones
