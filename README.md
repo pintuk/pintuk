@@ -26,17 +26,17 @@ QUALCOMM (1+ Years, Current), SONY (2 years), SAMSUMG (8.10 years), SASKEN (4.7 
 
 **ACHIEVEMENT AND AWARDS:**
 
-★ Demonstrated ideas and papers in Qualcomm Hackathon-2020 and Qbuzz-2020 (Related to Linux Kernel).
-★ Performance Excellence Yearly Award - 2019.
-★ Prototyped and Demonstrated 2 ideas in Sony Open House-2019.
-★ Employee of the Month Award - 2014.
-★ Several Linux Kernel Mainline Contributions (my own ideas):
+* Demonstrated ideas and papers in Qualcomm Hackathon-2020 and Qbuzz-2020 (Related to Linux Kernel).
+* Performance Excellence Yearly Award - 2019.
+* Prototyped and Demonstrated 2 ideas in Sony Open House-2019.
+* Employee of the Month Award - 2014.
+* Several Linux Kernel Mainline Contributions (my own ideas):
 - https://lore.kernel.org/lkml/?q=pintu
 - https://git.kernel.org/cgit/linux/kernel/git/next/linux-next.git/log/?qt=grep&q=pintu
-★ Contribution to Tizen open source robotic model: https://git.tizen.org/cgit/contrib/robotics/
-★ Xenomai Linux Kernel Contribution: https://gitlab.denx.de/Xenomai/xenomai/-/commit/c984901a833848ac29e6df1862cb9871b26b400b
-★ Complete architecture, design and implementation of Xenomai based real time automotive model using Raspberry Pi-3 and Linux Kernel 4.9.
-★ Several Technical paper presentation in Embedded Linux Conference World Wide:
+* Contribution to Tizen open source robotic model: https://git.tizen.org/cgit/contrib/robotics/
+* Xenomai Linux Kernel Contribution: https://gitlab.denx.de/Xenomai/xenomai/-/commit/c984901a833848ac29e6df1862cb9871b26b400b
+* Complete architecture, design and implementation of Xenomai based real time automotive model using Raspberry Pi-3 and Linux Kernel 4.9.
+* Several Technical paper presentation in Embedded Linux Conference World Wide:
 – Open Source Summit Japan-2019: Tokyo [July/2019]
 – Embedded Linux Conference-2016: San Diego [April/2016]
 – Embedded Linux Conference-2015: San Jose [March/2015]
@@ -45,5 +45,5 @@ QUALCOMM (1+ Years, Current), SONY (2 years), SAMSUMG (8.10 years), SASKEN (4.7 
 
 **Contact Details:**
 
-Personal E-mail: pintu.ping@gmail.com
-Mobile: +91-9945059943
+* Personal E-mail: pintu.ping@gmail.com
+* Mobile: +91-9945059943
