@@ -16,12 +16,14 @@ Here are some ideas to get you started:
 -->
 
 **About Me (Pintu Kumar):**
+
 My LinkedIn Profile: https://www.linkedin.com/in/pintu-kumar-agarwal-b73a31b/
 
 **More than 15 years of experience in Embedded Linux/Kernel development and design.**
 Currently working in Qualcomm Bangalore in Automotive Telematics BSP Linux Kernel design and development
 
 **Past Experience:**
+
 QUALCOMM (1+ Years, Current), SONY (2 years), SAMSUMG (8.10 years), SASKEN (4.7 years)
 
 **Background:**
