@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 My LinkedIn Profile: https://www.linkedin.com/in/pintu-kumar-agarwal-b73a31b/
 
 **More than 15 years of experience in Embedded Linux/Kernel development and design.**
+
 Currently working in Qualcomm Bangalore in Automotive Telematics BSP Linux Kernel design and development
 
 **Past Experience:**
@@ -27,6 +28,7 @@ Currently working in Qualcomm Bangalore in Automotive Telematics BSP Linux Kerne
 QUALCOMM (1+ Years, Current), SONY (2 years), SAMSUMG (8.10 years), SASKEN (4.7 years)
 
 **Background:**
+
 * Experience in Linux Kernel Board Bring up for ARM32 (Linux Kernel 2.6.x - Till date) mainly for smart phones and devices.
 * Worked mainly in Linux Kernel Memory Management areas
 * Experience with Real Time Linux Kernel (PREEMPT-RT, RT-Linux, XENOMAI)
@@ -38,6 +40,7 @@ QUALCOMM (1+ Years, Current), SONY (2 years), SAMSUMG (8.10 years), SASKEN (4.7 
 
 
 **ACHIEVEMENT AND AWARDS:**
+
 ★ Demonstrated ideas and papers in Qualcomm Hackathon-2020 and Qbuzz-2020 (Related to Linux Kernel).
 ★ Performance Excellence Yearly Award - 2019.
 ★ Prototyped and Demonstrated 2 ideas in Sony Open House-2019.
@@ -56,5 +59,6 @@ QUALCOMM (1+ Years, Current), SONY (2 years), SAMSUMG (8.10 years), SASKEN (4.7 
 
 
 **Contact Details:**
+
 Personal E-mail: pintu.ping@gmail.com
 Mobile: +91-9945059943
